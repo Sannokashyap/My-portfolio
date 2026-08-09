@@ -29,8 +29,7 @@ I am a B.Tech (CSE) student and Java Full Stack Developer with experience in Jav
 * Git & GitHub
 
 ## Live Demo
-
-Visit my portfolio website to explore my projects and skills.
+https://sannokashyap.github.io/My-portfolio
 
 ## Repository
 https://github.com/Sannokashyap/My-portfolio.git
@@ -38,6 +37,6 @@ https://github.com/Sannokashyap/My-portfolio.git
 ## Contact
 
 *Phone no :- 9214145399
-* GitHub:[ github.com/Sannokashyap](https://github.com/Sannokashyap)
+* GitHub: https://github.com/Sannokashyap
 
 Thank you for visiting my portfolio.
